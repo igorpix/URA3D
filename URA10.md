@@ -16,8 +16,8 @@ Esta versão é construída com Arduino, motor DC e ponte H L9110.
 * 2 x [Suporte Motor DC](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/sup%20lateral%20motor%20dc.stl)
 * 1 x [Chapa URA 7x7](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/chapa%20furos%20geral%207x7%203mm.stl) 
 * 2 x [Tira 7x1](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/chapa%20furos%20geral%207x1%203mm.stl) 
-* 1 x [Caixa ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/caixa%20ultrassom.stl)
-* 1 x [Tampa da caixa do ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/tampa%20da%20caixa%20do%20ultrassom.stl)
+* 2 x [Caixa ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/caixa%20ultrassom.stl)
+* 2 x [Tampa da caixa do ultrassom](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v8/tampa%20da%20caixa%20do%20ultrassom.stl)
 * 4 x [Espaçador de 32 mm](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/espa%C3%A7ador%20com%20porca%20-%2032mm.stl)
 * 2 x [Espaçador de 28 mm](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/espa%C3%A7ador%20com%20porca%20-%2028mm.stl)
 * 1 x [Suporte para o sensor de linha](https://github.com/Natalnet/URA3D/blob/master/stable_stls/v10/sup%20sensor%20linha%203x1.stl)
@@ -92,7 +92,7 @@ Total geral
 | [Ponte H L9110](https://pt.aliexpress.com/item/32893555258.html) | 1 | - |
 | [Carregador portátil para celular, 5V 1A 2x18650 Caixa de Bateria](https://pt.aliexpress.com/item/33011621183.html) | 1 | - |
 | [Baterias 18650 4.2v](https://produto.mercadolivre.com.br/MLB-717637625-kit-12-bateria18650-li-ion-8800mh-42v-lanterna-tatica-led-_JM) | 2 | - |
-| [Sensor Ultrassom](https://pt.aliexpress.com/item/33008144645.html) | 1 | - | 
+| [Sensor Ultrassom](https://pt.aliexpress.com/item/33008144645.html) | 2 | - | 
 | [Sensor de Linha](https://pt.aliexpress.com/item/32837015888.html) | 2 | - | 
 | Parafusos e outros |  | 5,00 |
 | Despesas com envio (valor aproximado) | ? | 40,00 | 
